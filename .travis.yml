@@ -14,3 +14,4 @@ env:
 notifications:
   email: false
 gemfile: Gemfile
+sudo: false
